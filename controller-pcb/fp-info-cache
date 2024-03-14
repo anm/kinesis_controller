@@ -1,4 +1,4 @@
-22465334067453259
+22465336840311146
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92163,7 +92163,7 @@ OLED_0.96in_I2C
 4
 river
 Piezos_12mm
-Buzzer, Elektromagnetic Beeper, Summer, 1,5V-DC,
+12mm Piezo sounders, various pin pitch options
 Pro Signal ABT-410-RC 
 0
 6
