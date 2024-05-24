@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "keyboards")(type "KiCad")(uri "/home/anon/kicad/keyboards.pretty")(options "")(descr ""))
+  (lib (name "river")(type "KiCad")(uri "/home/anon/kicad/river.pretty")(options "")(descr ""))
+)
