@@ -15,6 +15,7 @@ Changes from that one:
 ## Build Notes
 
 - There are two options for orientation of the function key connectors. Test it works before soldering in.
+- Obtain qmk keyboard files from https://github.com/anm/qmk_firmware/ river branch.
 - Build QMK with `qmk flash -kb kinesis/river -km river`.
 - Flash with dfu-util
 - Flash: Enter bootloader by holding BOOT0 button while resetting / powering on the board, then
