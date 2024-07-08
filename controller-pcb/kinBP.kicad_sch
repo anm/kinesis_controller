@@ -5099,8 +5099,8 @@
 	)
 	(text_box "Piezo:\n5V\n\ne.g.:\nLD-BZEN-1205"
 		(exclude_from_sim no)
-		(at 69.85 93.98 0)
-		(size 29.21 15.24)
+		(at 116.84 53.34 0)
+		(size 22.86 13.97)
 		(stroke
 			(width 0)
 			(type default)
@@ -5138,7 +5138,7 @@
 	(text_box "WeAct Blackpill has a 10k pulldown on BOOT1 already, so don't need to add.\n\nPulldown on BOOT1 for bootloader rather than RAM. Irrevelevent though unless BOOT0 selected."
 		(exclude_from_sim no)
 		(at 204.47 50.8 0)
-		(size 26.67 22.86)
+		(size 26.67 20.32)
 		(stroke
 			(width 0)
 			(type default)
@@ -5156,8 +5156,8 @@
 	)
 	(text_box "Audio:\n\nPossibilites:\nTIM2 seems to be used by QMK or ChibiOS already, so not that.\n\nPA15 TIM2_CH1 AF1\nPB3 TIM2_CH2 AF1\n\nPA2 TIM5_CH3 AF2, TIM9_CH1 AF3\nPA3 TIM5_CH4 AF2, TIM9_CH2 AF3"
 		(exclude_from_sim no)
-		(at 93.98 16.51 0)
-		(size 48.26 27.94)
+		(at 77.47 22.86 0)
+		(size 48.26 24.13)
 		(stroke
 			(width 0)
 			(type default)
