@@ -8,9 +8,9 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "KinBP controller PCB")
-		(date "2022-06-20")
-		(rev "1.21")
+		(title "River's Blackpill Kinesis Controller")
+		(date "2024-07-08")
+		(rev "V0.3")
 	)
 	(layers
 		(0 "F.Cu" signal)
@@ -14262,7 +14262,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "Kinesis Black Pill V0.2\nhttps://river.cat/t/kinbp"
+	(gr_text "Kinesis Black Pill V0.3\nhttps://river.cat/t/kinbp"
 		(at 130.775 68.8 0)
 		(layer "B.SilkS")
 		(uuid "792b4f7a-27ad-4843-885f-6d07c4b64619")
